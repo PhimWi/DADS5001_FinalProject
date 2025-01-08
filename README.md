@@ -31,4 +31,6 @@ From .env file, put your Gemini API key.
 ##### 1.Start the Streamlit app by running
 `streamlit run Home.py`
 
+## Fundamentor Poster
+![FundamentorPoster](https://github.com/user-attachments/assets/9690778f-d23b-4385-8b9c-ccb1dc0006c9)
 

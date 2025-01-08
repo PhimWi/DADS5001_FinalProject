@@ -1,3 +1,5 @@
+![banner](https://github.com/user-attachments/assets/523dca61-d710-4bde-ace2-260f3708ba1f)
+
 # DADS5001_FinalProject Tutorial
 
 ## Step 1: Clone the GitHub Repository

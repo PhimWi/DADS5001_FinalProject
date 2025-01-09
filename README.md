@@ -34,3 +34,8 @@ From .env file, put your Gemini API key.
 ## Fundamentor Poster
 ![FundamentorPoster](https://github.com/user-attachments/assets/9690778f-d23b-4385-8b9c-ccb1dc0006c9)
 
+## Members
+##### 6620412002 Pisitpob Rochanakorn
+##### 6620412003 Naphat Sirisanon
+##### 6620412004 Wandita Wongsinthon
+##### 6620412008 Phimpatra Wibulrithi
